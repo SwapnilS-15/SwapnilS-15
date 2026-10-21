@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Swapnil Sahu: ML Engineer, LLMs, RAG & Computer Vision" width="100%">
+<img src="assets/banner.png" alt="Swapnil Sahu: ML Engineer, LLMs, RAG & Computer Vision" width="100%">
 
 <p>
   <a href="https://huggingface.co/SwapnilS-15"><img src="https://img.shields.io/badge/Hugging_Face-SwapnilS--15-24292f?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" height="32"></a>
