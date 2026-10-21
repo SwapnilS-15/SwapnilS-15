@@ -3,7 +3,7 @@
 <p>
   <a href="https://huggingface.co/SwapnilS-15"><img src="https://img.shields.io/badge/Hugging_Face-SwapnilS--15-24292f?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" height="32"></a>
   <a href="mailto:Swapnils.pr15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24292f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"></a>
-  <a href="https://github.com/SwapnilS-15/SwapnilS-15/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-24292f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" height="32"></a>
+  <a href="https://drive.google.com/file/d/1zCkhSrIfN2ob5x3s6e-WyZzGrqeptDA7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-24292f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" height="32"></a>
 </p>
 
 I fine-tune, evaluate and ship language and vision models, from LoRA fine-tuning on an A100 to full agent and RAG systems that run on a 6 GB consumer GPU. Every choice is picked with numbers, every experiment is tracked, and every request is traced, so I can show what actually improved and why.
