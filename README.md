@@ -4,8 +4,8 @@
 
 <p>
   <a href="https://huggingface.co/SwapnilS-15"><img src="https://img.shields.io/badge/Hugging_Face-SwapnilS--15-24292f?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" height="32"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-24292f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"></a>
-  <a href="YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-View-24292f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" height="32"></a>
+  <a href="mailto:Swapnils.pr15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24292f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"></a>
+  <a href="https://drive.google.com/file/d/1lB1UT_5VSWQu_LLomee4WzJWrZoCYl9O/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-24292f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" height="32"></a>
 </p>
 
 I fine-tune, evaluate and ship language and vision models. I've trained on an A100 and built full systems that run on a 6 GB consumer GPU. Either way, I pick the setup with numbers, track every experiment, and trace every request, so I can show what actually improved and why.
