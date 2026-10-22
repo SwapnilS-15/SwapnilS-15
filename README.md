@@ -50,6 +50,20 @@ Open to **AI/ML engineer roles** in India or remote.
 
 ## Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python" height="26">
+  <img src="https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26">
+  <img src="https://img.shields.io/badge/Hugging_Face-24292f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" height="26">
+  <img src="https://img.shields.io/badge/LangGraph-24292f?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" height="26">
+  <img src="https://img.shields.io/badge/vLLM-24292f?style=flat-square&logo=vllm&logoColor=white" alt="vLLM" height="26">
+  <img src="https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="26">
+  <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="26">
+  <img src="https://img.shields.io/badge/Kubernetes-24292f?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" height="26">
+  <img src="https://img.shields.io/badge/MLflow-24292f?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" height="26">
+  <img src="https://img.shields.io/badge/AWS-24292f?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" height="26">
+  <img src="https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="26">
+</p>
+
 **LLMs & training:** PyTorch · Transformers · TRL (SFT, DPO) · PEFT / LoRA / QLoRA · Unsloth · vLLM · Ollama
 **Agents & RAG:** LangGraph · LangChain · MCP · A2A · Qdrant · ChromaDB · hybrid search · reranking
 **Vision & classical ML:** YOLO · ResNet · CNNs · OpenCV · scikit-learn · XGBoost · ONNX
