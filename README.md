@@ -7,6 +7,7 @@
 </p>
 
 I fine-tune, evaluate and ship language and vision models, from LoRA fine-tuning on an A100 to full agent and RAG systems that run on a 6 GB consumer GPU. Every choice is picked with numbers, every experiment is tracked, and every request is traced, so I can show what actually improved and why.
+
 Eager to bring this benchmark-driven approach to production-scale AI systems and complex engineering challenges.
 
 ## How I work
