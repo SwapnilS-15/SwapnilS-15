@@ -6,7 +6,8 @@
   <a href="https://drive.google.com/file/d/1zCkhSrIfN2ob5x3s6e-WyZzGrqeptDA7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-24292f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" height="32"></a>
 </p>
 
-I fine-tune, evaluate and ship language and vision models, from LoRA fine-tuning on an A100 to full agent and RAG systems that run on a 6 GB consumer GPU. Every choice is picked with numbers, every experiment is tracked, and every request is traced, so I can show what actually improved and why.Eager to bring this benchmark-driven approach to production-scale AI systems and complex engineering challenges.
+I fine-tune, evaluate and ship language and vision models, from LoRA fine-tuning on an A100 to full agent and RAG systems that run on a 6 GB consumer GPU. Every choice is picked with numbers, every experiment is tracked, and every request is traced, so I can show what actually improved and why.
+Eager to bring this benchmark-driven approach to production-scale AI systems and complex engineering challenges.
 
 ## How I work
 
