@@ -23,7 +23,7 @@ Eager to bring this benchmark-driven approach to production-scale AI systems and
 | Work | Result | Context |
 |---|---|---|
 | **Enterprise chatbot** · Logic Fruit | **BERTScore 71% → 87%**, **faithfulness 82% → 97%** | Gemma 3 270M + LoRA on a 10k-pair instruction dataset built from internal data. F1 78% → 92%, ROUGE 28% → 45% |
-| **Drone vs. bird** · radar | **75% → 97% accuracy** on 5 s window, **90%+** on every 1–16 s window | 5+ engineered trajectory features, 4 classifiers benchmarked. Retrained after finding a train/serve window mismatch, then shipped as ONNX |
+| **Drone vs. bird** · radar | **75% → 97% accuracy** on 5 s & **90%+** on every 1–16 s window | 5+ engineered trajectory features, 4 classifiers benchmarked. Retrained after finding a train/serve window mismatch, then shipped as ONNX |
 | **Toolcaller-SLM** | **61.6% → 80.0%** exact match, **0% → 82%** correct abstention | 0.5B model, SFT + DPO on its own mistakes, 2,929 held-out questions, p = 0.0003 |
 | **OKF** | **89% vs. 26%** fully answered | Section-based hybrid retrieval vs. GraphRAG, at 20× lower build cost |
 | **PDFinsights** | **97% Hit@5**, **290 ms** to first token | Hybrid search + reranking. llama3.2:3b picked from 5 LLMs on speed and faithfulness |
